@@ -2,6 +2,7 @@
 
 - 🌱 I’m continuosly learning embedded systems focusing mainly on Espressif & STMicrocontrollers.
 - 🔭 I’m currently creating working examples on ESP-IDF to help learning.
+- 💬 Ask me about anything to do with 3D printing / Fusion360 / ESP-IDF / FPV-drones.
 - ⚡ Fun fact:    Number of micro-controllers fried all time     : 7
 
 
