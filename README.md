@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning full stack web development.
-- 🔭 I’m currently working on ESP32 PWM and I2S projects.
-- ⚡ Fun fact:    Number of micro-controllers fried all time     : 6
+- 🌱 I’m continuosly learning embedded systems focusing mainly on Espressif & STMicrocontrollers.
+- 🔭 I’m currently creating working examples on ESP-IDF to help learning.
+- ⚡ Fun fact:    Number of micro-controllers fried all time     : 7
 
 
 <!--
