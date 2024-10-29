@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🌱 I’m continuosly learning embedded systems focusing mainly on Espressif & STMicrocontrollers.
-- 🔭 I’m currently creating working examples on ESP-IDF to help others learn.
-- 💬 Ask me about anything to do with 3D printing / Fusion360 / ESP-IDF / FPV-drones.
-- ⚡ Fun fact:    Number of micro-controllers fried all time     : 7
+- 🌱 I’m a full-stack web developer with experience in React, Node.js, .Net Core.
+- 🔭 I’m currently working on .Net Core examples
+- 💬 Ask me about anything to do with web development, ui, ux.
+- ⚡ Fun fact:    I also work on embedded hardware in my spare time.
 
 
 <!--
